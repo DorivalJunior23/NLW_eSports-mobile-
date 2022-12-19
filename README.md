@@ -3,13 +3,15 @@ Projeto da NLW eSports, trilha Ignite versão mobile
 
 
 <div>
-<h2>Desktop</h2>
+<h2>📱 Mobile</h2>
 </div>
 
 <div >
-<img src="" width="400rem">
+<img src="images/Mobile 1.jfif" width="400rem">
 <br>
-<img src="">
+<img src="images/Mobile 2.jfif" width="400rem">
+<br>
+<img src="images/Mobile 3.jfif" width="400rem">
 </div>
 
 > Status do projeto: Concluído <br>
